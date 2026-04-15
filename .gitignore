@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+
+# SSH Keys
+terraform-key
+terraform-key.pub
+
+# Other
+*.log
+.DS_Store
